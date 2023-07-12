@@ -35,7 +35,7 @@
 	<meta name="description" content="Annuaire des mairies de France" />
 	<meta property="og:description" content="Annuaire des mairies de France">
 	<meta property="og:title" content="Annuaire des mairies de France">
-	<meta property="og:image" content="%sveltekit.assets%/cover.png">
+	<meta property="og:image" content="https://annuaire-maire-france.vercel.app/cover.png">
 	<meta property="og:type" content="siteweb">
 	<link rel="canonical" href="https://annuaire-maire-france.vercel.app/">
 </svelte:head>
