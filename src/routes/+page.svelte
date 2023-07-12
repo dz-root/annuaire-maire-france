@@ -12,7 +12,7 @@
 	}
 
 	async function Result() {
-		let url =`http://127.0.0.1:5173/api/mairie/?departement=${location}`
+		let url =`./api/mairie/?departement=${location}`
 		let res = await fetch(url)
 		let data = res.json()
 
