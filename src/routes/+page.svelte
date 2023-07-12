@@ -33,11 +33,17 @@
 <svelte:head>
 	<title>Annuaire des mairies de France</title>
 	<meta name="description" content="Annuaire des mairies de France" />
+	<meta property="og:description" content="Annuaire des mairies de France">
+	<meta property="og:title" content="Annuaire des mairies de France">
+	<meta property="og:image" content="%sveltekit.assets%/cover.png">
+	<meta property="og:type" content="siteweb">
+	<link rel="canonical" href="https://annuaire-maire-france.vercel.app/">
 </svelte:head>
 
 <section class="grid grid-cols-12 w-full h-screen ">
-	<div class="col-span-12 md:col-span-3 bg-gradient-to-t from-slate-100 to-sky-50 p-10 flex flex-col justify-between shadow-2xl shadow-slate-200 border-r">
-		<div class="sticky top-10">
+	<div class="col-span-12 md:col-span-3 bg-gradient-to-t from-slate-100 to-sky-50 p-5 sm:p-10 flex flex-col justify-between shadow-2xl shadow-slate-200 border-r">
+		<div class="flex flex-col items-center sticky top-10">
+			<img src="./logo.png" alt="Maire de France" class="mb-10 w-2/3">
 			<h1 class="text-2xl font-light mb-10">Annuaire des mairies de France</h1>
 			<label for="departement" class="text-xs uppercase ">Séléctionnez le departements</label>
 			<select id="departement" bind:value={location} class="bg-white border border-slate-300 text-slate-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 mt-2">
@@ -145,7 +151,7 @@
 				<option value="975">(975) Saint Pierre et Miquelon </option>
 				<option value="976">(976) Mayotte </option>
 			</select>
-			<button on:click={handleClick} type="button" class="flex items-center justify-center mt-4 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2">
+			<button on:click={handleClick} type="button" class="flex items-center justify-center mt-4 text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mb-2">
 				<svg fill="none" class="w-4 mr-2" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
 					<path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 5.196a7.5 7.5 0 0010.607 10.607z"></path>
 				</svg>
