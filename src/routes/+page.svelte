@@ -158,11 +158,16 @@
 				Recherche
 			</button>
 		</div>
-		<p class="hidden md:flex text-sm font-semibold">Par 🤴 LES ROIS DU WEB 🇫🇷</p>	
+		<p class="hidden md:flex text-sm font-semibold">
+			Par 🤴 LES ROIS DU WEB 			
+			<a href="https://marketing-europa.ch/" class="ml-2">Marketing Europa</a>
+		</p>	
 	</div>
 
 	<div class="w-full flex justify-center items-center md:hidden fixed bottom-0 z-10">
-		<p class="w-full text-center text-sm font-semibold bg-white border-t p-4">Par 🤴 LES ROIS DU WEB 🇫🇷</p>	
+		<p class="w-full text-center text-sm font-semibold bg-white border-t p-4">Par 🤴 LES ROIS DU WEB par 
+			<a href="https://marketing-europa.ch/">Marketing Eeuropa</a>
+		</p>	
 	</div>
 	<div id="result" class="flex flex-col col-span-12 md:col-span-9 p-5 sm:p-10" >
 		{#if skeleton}
@@ -173,123 +178,123 @@
 				</svg>
 				Séléctionnez un département
 			</div>
-			<div role="status" class="w-full p-4 space-y-4 border border-slate-200 divide-y divide-slate-200 rounded shadow animate-pulse dark:divide-slate-700 md:p-6 dark:border-slate-700">
+			<div role="status" class="w-full p-4 space-y-4 border border-slate-200 divide-y divide-slate-200 rounded shadow animate-pulse md:p-6">
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full "></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-fullw-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full  w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full  w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full  w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full w-12"></div>
 				</div>
 				<div class="flex items-center justify-between">
 					<div>
-						<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-600 w-24 mb-2.5"></div>
-						<div class="w-32 h-2 bg-slate-200 rounded-full dark:bg-slate-700"></div>
+						<div class="h-2.5 bg-slate-300 rounded-full w-24 mb-2.5"></div>
+						<div class="w-32 h-2 bg-slate-200 rounded-full"></div>
 					</div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
-					<div class="h-2.5 bg-slate-300 rounded-full dark:bg-slate-700 w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full  w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full  w-12"></div>
+					<div class="h-2.5 bg-slate-300 rounded-full  w-12"></div>
 				</div>
 			</div>
 		{/if}
@@ -307,23 +312,23 @@
 					<div class="flex px-4 py-4 items-center justify-center">
 						<label class="relative inline-flex items-center cursor-pointer ml-6 sm:ml-0 mr-4">
 							<input type="checkbox" value="" class="sr-only peer" bind:checked={display.nom}>
-							<div class="w-11 h-6 bg-slate-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-slate-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-slate-600 peer-checked:bg-blue-600"></div>
-							<span class="ml-3 text-sm font-medium text-slate-900 dark:text-slate-300">Commune</span>
+							<div class="w-11 h-6 bg-slate-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+							<span class="ml-3 text-sm font-medium text-slate-900 ">Commune</span>
 						</label>
 						<label class="relative inline-flex items-center cursor-pointer mr-4">
 							<input type="checkbox" value="" class="sr-only peer" bind:checked={display.email}>
-							<div class="w-11 h-6 bg-slate-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-slate-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-slate-600 peer-checked:bg-blue-600"></div>
-							<span class="ml-3 text-sm font-medium text-slate-900 dark:text-slate-300">Email</span>
+							<div class="w-11 h-6 bg-slate-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+							<span class="ml-3 text-sm font-medium text-slate-900 ">Email</span>
 						</label>
 						<label class="relative inline-flex items-center cursor-pointer mr-4">
 							<input type="checkbox" value="" class="sr-only peer" bind:checked={display.phone}>
-							<div class="w-11 h-6 bg-slate-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-slate-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-slate-600 peer-checked:bg-blue-600"></div>
-							<span class="ml-3 text-sm font-medium text-slate-900 dark:text-slate-300">Téléphone</span>
+							<div class="w-11 h-6 bg-slate-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+							<span class="ml-3 text-sm font-medium text-slate-900 ">Téléphone</span>
 						</label>
 						<label class="relative inline-flex items-center cursor-pointer mr-4">
 							<input type="checkbox" value="" class="sr-only peer" bind:checked={display.adresse}>
-							<div class="w-11 h-6 bg-slate-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 dark:peer-focus:ring-blue-800 rounded-full peer dark:bg-slate-700 peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all dark:border-slate-600 peer-checked:bg-blue-600"></div>
-							<span class="ml-3 text-sm font-medium text-slate-900 dark:text-slate-300">Adresse</span>
+							<div class="w-11 h-6 bg-slate-200 peer-focus:outline-none peer-focus:ring-4 peer-focus:ring-blue-300 rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-slate-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+							<span class="ml-3 text-sm font-medium text-slate-900">Adresse</span>
 						</label>
 					</div>
 				</div>
@@ -365,7 +370,7 @@
 					</thead>
 					<tbody>
 						{#each items.features as item}
-							<tr class="border-b border-slate-200 dark:border-slate-700">
+							<tr class="border-b border-slate-200">
 								<th scope="row" class:hidden="{! display.nom}" class="px-6 py-4 font-medium text-slate-900 whitespace-nowrap bg-slate-50">
 									{item.properties.nom}
 								</th>
@@ -376,7 +381,7 @@
 										--
 									{/if}
 								</td>
-								<td class="px-6 py-4 bg-slate-50 dark:bg-slate-800" class:hidden="{! display.phone}" >
+								<td class="px-6 py-4 bg-slate-50" class:hidden="{! display.phone}" >
 									{#if item.properties.telephone !=''}
 										<a href="tel:+33{(item.properties.telephone).replace(/\s/g, '')}" class="hover:text-blue-500 transition ease-in-out">{item.properties.telephone}</a>
 									{:else}
