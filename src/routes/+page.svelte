@@ -166,7 +166,7 @@
 
 	<div class="w-full flex justify-center items-center md:hidden fixed bottom-0 z-10">
 		<p class="w-full text-center text-sm font-semibold bg-white border-t p-4">Par 🤴 LES ROIS DU WEB par 
-			<a href="https://marketing-europa.ch/">Marketing Eeuropa</a>
+			<a href="https://marketing-europa.ch/">Marketing Europa</a>
 		</p>	
 	</div>
 	<div id="result" class="flex flex-col col-span-12 md:col-span-9 p-5 sm:p-10" >
