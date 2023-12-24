@@ -159,8 +159,7 @@
 			</button>
 		</div>
 		<p class="hidden md:flex text-sm font-semibold">
-			Par 🤴 LES ROIS DU WEB 			
-			<a href="https://marketing-europa.ch/" class="ml-2">Marketing Europa</a>
+			Par 🤴 LES ROIS DU WEB 	<a href="https://kingweb.fr/" class="ml-2">Kingweb</a>
 		</p>	
 	</div>
 
